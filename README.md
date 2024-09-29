@@ -10,6 +10,9 @@
 
 </a> <a href = "https://www.instagram.com/rohmoohyunfoundation/"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </a> <a href = "https://discordlookup.com/user/922030442717257758"> <img alt="Discord" src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</a> <a href = "https://t.me/tellmecp"> <img alt="Telegram" src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</a> <a href = "https://signal.me/#eu/FLP-uTFaBywkHVrVnS4EgMjmVCVHOXIWDsjDWws_F_7gadd1adJBv4vbm35hsg3N"> <img alt="Signal" src ="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/></a>
+
 
 
 
