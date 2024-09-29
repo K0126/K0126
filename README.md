@@ -9,7 +9,7 @@
 ## Contact
 
 </a> <a href = "https://www.instagram.com/rohmoohyunfoundation/"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</a> <a href = "https://discordlookup.com/"> <img alt="Discord" src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</a> <a href = "https://discordlookup.com/user/922030442717257758"> <img alt="Discord" src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 
 
